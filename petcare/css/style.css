@@ -8774,8 +8774,8 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #fd4c82;
-    border: 1px solid #fd4c82 !important;
+    background: #1e90ff;
+    border: 1px solid #1e90ff !important;
     color: #fff !important; }
     .btn.btn-primary:hover {
       border: 1px solid #fd4c82;
@@ -8890,7 +8890,7 @@ h1, h2, h3, h4, h5,
     background: #f0f0f0; }
     .services .icon span {
       font-size: 40px;
-      color: #fd4c82; }
+      color: #1e90ff; }
   .services .media-body {
     width: calc(100% - 100px);
     -moz-transition: all 0.3s ease;
