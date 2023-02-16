@@ -10116,3 +10116,22 @@ textarea.form-control {
 #noPading{
   padding: 0;
 };
+
+.map-responsive{
+
+  overflow:auto;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+
+}
+
+.map-responsive iframe{
+
+  left:0;
+  top:0;
+  height:80%;
+  width:80%;
+  position:absolute;
+
+}
